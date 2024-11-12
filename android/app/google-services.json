@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601205290418",
+    "project_id": "yoga-mat-1c627",
+    "storage_bucket": "yoga-mat-1c627.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601205290418:android:c2acb5534daa01a995a0ab",
+        "android_client_info": {
+          "package_name": "com.example.yoga_mat_ass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfDqvw4Aw7V1kgtTn9v0jV29k_JNjU1WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
